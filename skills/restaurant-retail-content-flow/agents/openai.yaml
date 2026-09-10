@@ -1,0 +1,4 @@
+interface:
+  display_name: "餐飲零售內容匯流"
+  short_description: "將文章延伸為社群內容與影片腳本，並依請求執行網站及社群發布、草稿或排程"
+  default_prompt: "使用 $restaurant-retail-content-flow，依我的商家簡報或既有文章製作多平台內容，並依我指定的目標與動作執行網站及社群發布、草稿或排程；未要求發布時只產出內容。"
